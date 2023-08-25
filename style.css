@@ -69,7 +69,7 @@ font-size:20px;
     padding-bottom: 20px;
     padding-left: 50px;
     padding-top: 20px;
-    float:left;
+    display: inline;
     cursor: pointer;
 }
 .item:hover{
@@ -77,3 +77,51 @@ font-size: 23px;
 text-decoration:underline;
 
 }
+
+#Career{
+margin-top: 100px;
+background-color: red;
+}
+#History{
+    margin-top: 100px;
+    color:yellow;
+    background-color: blue;
+    font-size: 30px; 
+    text-decoration: underline;
+
+    font-family:  Calibri;
+    }
+
+#Speeches{
+        margin-top: 100px;
+        background-color: purple;
+        }
+        #Contact{
+            margin-top: 60px;
+            
+            }
+            #Contact_Body{
+                background-color: yellow;
+                margin: 0%;
+            }
+            
+            #con h3{
+         
+ display: inline;
+ color: black;
+            }
+
+        
+            .Footer{
+                margin-bottom: 0px;
+                position: fixed;
+                bottom:0px;
+                width: 100%;
+                background-color:pink;
+                color: blue;
+                text-align: center;
+                
+            }
+            #Message{
+                margin-left: 70px;
+            }
